@@ -4,8 +4,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Rui!;I'm+a+Software+Developer+from+Portugal.;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruigpribeiro&bg_color=0d1117&color=8b0000&line=ff0000&point=ff6666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <br>
+  <br>
+  <h2>Contribution Grid</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+  <br>
+  <br>
+  <br>
+</div>
 
+
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruigpribeiro&bg_color=0d1117&color=8b0000&line=ff0000&point=ff6666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruigpribeiro&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117" alt="Rui Ribeiro github stats" /> 
@@ -25,13 +38,13 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
+<!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ruigpribeiro}/count.svg" /></p> 
 <br>
 </div>
-
+-->
 
 ### Connect with me:
 <!--<div align="center">-->
