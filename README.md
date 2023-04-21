@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Rui!;I'm+a+Software+Developer+from+Portugal.;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruigpribeiro&bg_color=0d1117&color=8B0000&line=8B0000&point=8B0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruigpribeiro&bg_color=0d1117&color=8b0000&line=ff0000&point=ff6666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
