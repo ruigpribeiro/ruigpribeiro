@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Rui!;I'm+a+Junior+Software+Developer+from+Portugal.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Rui!;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
 
 
@@ -9,11 +9,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on personal projects and learning.
-- 🌱 I’m currently learning new frameworks.
-- 💬 Ask me about my experience in Java.
+- 🔭 I’m currently working on learning new technologies.
+<!-- - 🌱 I’m currently learning new frameworks.
+- 💬 Ask me about my experience in Java. -->
 - 📫 How to reach me: You can contact me via email or LinkedIn.
-- ⚡ Fun fact: In my spare time I like to check the Stock Market 📈
+<!-- - ⚡ Fun fact: In my spare time I like to check the Stock Market 📈-->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
